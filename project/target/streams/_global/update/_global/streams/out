@@ -1,0 +1,4 @@
+[warn] sbt-ide-settings.jar no longer exists at /Users/steve/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-ide-settings/scala_2.12/sbt_1.0/1.1.0/jars/sbt-ide-settings.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/steve/IdeaProjects/spark-test-01/project/"), "spark-test-01-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/steve/IdeaProjects/spark-test-01/project/"), "spark-test-01-build")
